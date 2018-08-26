@@ -1,0 +1,2 @@
+# QuizFinal
+A quiz app for c++ beginners. This app makes use of firebase for authentication. This app includes login, registration and forgot password features using firebase backend. After login the user's login state is maintained. The app includes seven levels of difficulty. After choosing the difficulty the user is displayed with 5 random questions from a data source. After completion of the quiz the final score is displayed to the user. The user can also view the last quiz score which the user has attempted.
